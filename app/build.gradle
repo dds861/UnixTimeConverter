@@ -4,7 +4,7 @@ android {
     compileSdkVersion 27
     buildToolsVersion '27.0.3'
     defaultConfig {
-        applicationId "com.mathius.dd.milestokm"
+        applicationId "com.mathius.dd.unixtodate"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 6
@@ -20,9 +20,8 @@ android {
 }
 
 dependencies {
-    implementation 'com.google.firebase:firebase-ads:12.0.1'
-    implementation 'com.google.firebase:firebase-core:12.0.1'
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.google.firebase:firebase-ads:11.8.0'
     androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
@@ -32,14 +31,13 @@ dependencies {
     implementation 'com.android.support:cardview-v7:27.1.0'
     testImplementation 'junit:junit:4.12'
 
-    implementation 'com.google.android.gms:play-services-ads:12.0.1'
-
     //https://github.com/daimajia/AndroidViewAnimations библиотека анимации
     implementation 'com.daimajia.easing:library:2.0@aar'
     implementation 'com.daimajia.androidanimations:library:2.3@aar'
 
     implementation 'com.google.code.gson:gson:2.8.1'
 }
+
 
 
 
