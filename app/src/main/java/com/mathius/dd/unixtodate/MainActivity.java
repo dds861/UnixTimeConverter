@@ -1,4 +1,4 @@
-package com.mathius.dd.milestokm;
+package com.mathius.dd.unixtodate;
 
 import android.content.ClipData;
 import android.content.ClipboardManager;
