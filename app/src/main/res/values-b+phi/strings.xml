@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Milya - Kilometro</string>
+    <string name="kilometres">Kilometro</string>
+    <string name="miles">Milya</string>
+    <string name="enterNumber">Ipasok ang numero</string>
+    <string name="here_will_be_text_in_latin_kazakh">Ang resulta ay ipapakita dito</string>
+    <string name="enter_text_in_cyrillic_kazakh">Maglagay ng numero</string>
+    <string name="share_using">Ibahagi ang paggamit?</string>
+    <string name="TextCopied">Kinopya ang teksto</string>
+
+</resources>

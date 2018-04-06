@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meilen - Kilometer</string>
+    <string name="kilometres">Kilometer</string>
+    <string name="miles">Meilen</string>
+    <string name="enterNumber">Geben Sie die Nummer</string>
+    <string name="here_will_be_text_in_latin_kazakh">Das Ergebnis wird hier angezeigt</string>
+    <string name="enter_text_in_cyrillic_kazakh">Nummer eingeben</string>
+    <string name="share_using">Teilen mit?</string>
+    <string name="TextCopied">Kopierter Text</string>
+
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">里程 - 公里</string>
+    <string name="kilometres">公里</string>
+    <string name="miles">萬里</string>
+    <string name="enterNumber">輸入號碼</string>
+    <string name="here_will_be_text_in_latin_kazakh">結果將顯示在這裡</string>
+    <string name="enter_text_in_cyrillic_kazakh">輸入號碼</string>
+    <string name="share_using">分享使用？</string>
+    <string name="TextCopied">文本被複製</string>
+
+</resources>

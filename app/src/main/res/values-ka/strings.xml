@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">მილები - კილომეტრები</string>
+    <string name="kilometres">კილომეტრები</string>
+    <string name="miles">მაილი</string>
+    <string name="enterNumber">შეიყვანეთ ნომერი</string>
+    <string name="here_will_be_text_in_latin_kazakh">შედეგი აქ გამოჩნდება</string>
+    <string name="enter_text_in_cyrillic_kazakh">შეიყვანეთ ნომერი</string>
+    <string name="share_using">გაზიარება?</string>
+    <string name="TextCopied">ტექსტის გადაწერა</string>
+
+</resources>

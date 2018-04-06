@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="16dp"
+        android:paddingEnd="2dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="2dp"
+        android:paddingStart="16dp"
+        android:paddingTop="16dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@color/primary_text" />
+
+    <TextView
+        android:id="@+id/tvEdinica1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="16dp"
+        android:paddingEnd="4dp"
+        android:paddingLeft="2dp"
+        android:paddingRight="4dp"
+        android:paddingStart="2dp"
+        android:paddingTop="16dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@color/primary_text" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:paddingBottom="16dp"
+        android:paddingEnd="4dp"
+        android:paddingLeft="2dp"
+        android:paddingRight="4dp"
+        android:paddingStart="2dp"
+        android:paddingTop="16dp"
+        android:text=""
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@color/primary_text" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="16dp"
+        android:paddingEnd="2dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="2dp"
+        android:paddingStart="4dp"
+        android:paddingTop="16dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+    <TextView
+        android:id="@+id/tvEdinica2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="16dp"
+        android:paddingEnd="16dp"
+        android:paddingLeft="2dp"
+        android:paddingRight="16dp"
+        android:paddingStart="2dp"
+        android:paddingTop="16dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+    <!--<item name="cardCornerRadius">2dp</item>-->
+    <!--<item name="cardElevation">2dp</item>-->
+    <!--<item name="contentPaddingBottom">24dp</item>-->
+    <!--<item name="contentPaddingTop">24dp</item>-->
+    <!--<item name="contentPaddingLeft">16dp</item>-->
+    <!--<item name="contentPaddingRight">16dp</item>-->
+</LinearLayout>

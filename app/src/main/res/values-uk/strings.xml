@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Милі - кілометри</string>
+    <string name="kilometres">Кілометрів</string>
+    <string name="miles">Милі</string>
+    <string name="enterNumber">Введіть номер</string>
+    <string name="here_will_be_text_in_latin_kazakh">Результат буде показано тут</string>
+    <string name="enter_text_in_cyrillic_kazakh">Введіть номер</string>
+    <string name="share_using">Поділитися з використанням?</string>
+    <string name="TextCopied">Текст скопійований</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">마일 - 킬로미터</string>
+    <string name="kilometres">킬로미터</string>
+    <string name="miles">마일즈</string>
+    <string name="enterNumber">번호 입력</string>
+    <string name="here_will_be_text_in_latin_kazakh">결과가 여기에 표시됩니다.</string>
+    <string name="enter_text_in_cyrillic_kazakh">번호 입력</string>
+    <string name="share_using">사용하여 공유 하시겠습니까?</string>
+    <string name="TextCopied">텍스트 복사 됨</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मील - किलोमीटर</string>
+    <string name="kilometres">किलोमीटर</string>
+    <string name="miles">मीलों</string>
+    <string name="enterNumber">संख्या दर्ज करें</string>
+    <string name="here_will_be_text_in_latin_kazakh">परिणाम यहाँ दिखाया जाएगा</string>
+    <string name="enter_text_in_cyrillic_kazakh">नंबर डालें</string>
+    <string name="share_using">का उपयोग करना साझा करें?</string>
+    <string name="TextCopied">पाठ की प्रतिलिपि बनाई गई</string>
+
+</resources>
